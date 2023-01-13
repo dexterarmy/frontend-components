@@ -21,3 +21,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+theory.md
+utils
+features
+src/components/Images
+src/components/profile
+src/components/Photo.js
